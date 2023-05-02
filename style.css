@@ -1,0 +1,79 @@
+#jumbo{
+    background-color: #f4511e; /* Orange */
+    color: #ffffff;
+    padding: 200px 25px;
+    margin: 1px;;
+    background-image:url(about.jpeg);
+  }
+
+#downicon{
+    font-size: 10px;
+    position: relative;
+    top: 75px;
+}
+#about{
+    
+    background-color: #f4511e;
+    background-position: center;
+    color:black;
+    text-align: center;
+}
+.container-fluid {
+    padding: 60px 50px;
+    margin:0px
+}
+.panel {
+    border: 1px solid #f4511e;
+    border-radius:0;
+    transition: box-shadow 0.5s;
+  }
+  
+  .panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+  }
+  
+  .panel-footer .btn:hover {
+    border: 1px solid #f4511e;
+    background-color: #fff !important;
+    color: #f4511e;
+  }
+  
+  .panel-heading {
+    color: #fff !important;
+    background-color: #f4511e !important;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+  
+  .panel-footer {
+    background-color: #fff !important;
+  }
+  
+  .panel-footer h3 {
+    font-size: 32px;
+  }
+  
+  .panel-footer h4 {
+    color: #aaa;
+    font-size: 14px;
+  }
+  
+  .panel-footer .btn {
+    margin: 15px 0;
+    background-color: #f4511e;
+    color: #fff;
+  }
+
+  /* #body1{
+    background-image:url(burrito.jpeg);
+    background-;
+  } */
+
+  #contact{
+    margin: 0px;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(255, 77, 0));
+  }
